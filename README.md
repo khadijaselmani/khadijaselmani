@@ -20,10 +20,6 @@ Welcome to my GitHub profile! I'm a passionate software developer from Morocco �
 - [LinkedIn](https://www.linkedin.com/in/khadija-selmani-745241222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [Email](mailto:khadijaselmani518@gmail.com)
 
-## 📈 GitHub Stats
-![Khadija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khadijaselmani&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadijaselmani&layout=compact&theme=radical)
-
 ## 🌟 Fun Facts
 - 📚 I love learning new things.
 - 🌍 I’m exploring new ways to stay active and improve my daily routine.
