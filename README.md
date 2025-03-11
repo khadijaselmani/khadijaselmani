@@ -23,6 +23,16 @@ Welcome to my GitHub profile! I'm a passionate software developer from Morocco �
 ## 🌟 Fun Facts
 - 📚 I love learning new things.
 - 🌍 I’m exploring new ways to stay active and improve my daily routine.
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khadijaselmani&show_icons=true&locale=en&layout=compact" alt="husseinbouik" />
+</p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khadijaselmani&show_icons=true&locale=en" alt="husseinbouik" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadijaselmani&" alt="husseinbouik" />
+</p>
 Thank you for visiting my profile! 😊
 
