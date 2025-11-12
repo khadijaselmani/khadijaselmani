@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate software developer from Morocco 🇲🇦, specialized in **Web Development** and **Desktop Applications**.
 
 ## 🚀 About Me
-- 💻 I have a diploma in **Développement Informatique** from ISMONTIC Tanger (2022) and **Logiciel et Développement Web** from ENS Tetouan (2023).
-- 👨‍💻 Currently working at **WinBooks Maroc**, where I'm developing the **[Winhub.ma](https://app.winhub.ma/)** web application using technologies like `.NET`, `C#`, `MudBlazor`, and `Azure AI Studio`.
-- 🌐 I have experience with **PHP**, **JEE**, **Symfony**, **MySQL**, **PostgreSQL**, and more.
+- 💻 Full Stack .NET Developer passionate about crafting quality web applications.  
+- 🎓 Background in Software and Web Development.  
+- 🌱 Always eager to learn, build, and grow.
 
 
 ## 🛠️ Technologies & Tools
