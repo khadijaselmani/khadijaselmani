@@ -1,6 +1,6 @@
 # Hi there, I'm Khadija Selmani 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer from Morocco 🇲🇦, specialized in **Web Development** and **Desktop Applications**.
+Welcome to my GitHub profile! I’m a Full Stack .NET Developer from Morocco, passionate about crafting modern web and desktop applications.
 
 ## 🚀 About Me
 - 💻 Full Stack .NET Developer passionate about crafting quality web applications.  
